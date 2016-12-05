@@ -58,6 +58,7 @@ class Loader
         CSV
         EMPTYASNULL
         GZIP
+        EXPLICIT_IDS
       EOS
     end
   end
